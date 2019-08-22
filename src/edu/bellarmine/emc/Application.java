@@ -25,6 +25,10 @@ public class Application {
 		
 		System.out.println("The sum of those numbers is " + sum);
 		
+		int product = num1 * num2;
+		
+		System.out.println("The product of those numbers is " + product);
+		
 		input.close();
 		
 	}
